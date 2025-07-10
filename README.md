@@ -129,7 +129,3 @@ Este trabajo demostró cómo el **aprendizaje no supervisado** puede detectar pa
 - Aplicar reducción de dimensionalidad (PCA) para mejorar visualización  
 - Incluir imágenes satelitales (NDVI) o mapas  
 
----
-
-## 📁 Estructura del repositorio
-
